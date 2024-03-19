@@ -1,8 +1,12 @@
-# Hello! I'm Eggsy! Full Stack Developer
+# Hello! I'm Oxcata! A Behavior Developer
 
 ## About me
-Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angular. My journey in the tech world began with a fascination for building solutions that not only perform efficiently but also deliver a compelling user experience.
+Hello! Soy Oxcata, proveniente de Perú. Interesado en la programacion de paginas web y afortunado de ganar la beca para ingresar al cur de Programación Web Full Stack
 
 ## Contact me
-As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
+ustedes me pueden conocer como un futuro creador de paginas web creativas, posiblemente hare de esto mi trabajo para crear tiendas virtuales o plataformas de redes sociales, quien lo podria saber?
+
+## First Project
+
+Mi primera pagina Web fue acerca de una cancion que resumia la historia de un feo hombre con la Barba Azul
 
