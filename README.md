@@ -9,3 +9,5 @@ ustedes me pueden conocer como un futuro creador de paginas web creativas, posib
 ## First Project
 
 Mi primera pagina Web fue acerca de una cancion que resumia la historia de un feo hombre con la Barba Azul
+## Hobbies
+- Dancing: ...
