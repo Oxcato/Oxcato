@@ -9,6 +9,11 @@ ustedes me pueden conocer como un futuro creador de paginas web creativas, posib
 ## First Project
 
 Mi primera pagina Web fue acerca de una cancion que resumia la historia de un feo hombre con la Barba Azul
+
+## Languages
+
+pato duck no se
+
 ## Technologies
 - Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
 - Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
