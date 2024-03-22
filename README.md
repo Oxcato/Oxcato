@@ -12,8 +12,14 @@ Mi primera pagina Web fue acerca de una cancion que resumia la historia de un fe
 
 ## Languages
 
-pato duck no se
+pato 
+duck 
+no se
 
 ## Technologies
 - Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
 - Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
+
+## Skills
+
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
